@@ -7,7 +7,7 @@ Most of my work lives at the intersection of **AI 🤖**, **data infrastructure 
 
 What drives me is **solving hard problems with clear reasoning**, and **shipping things that bring real value to users**.
 
-I ❤️ to **own the projects** I'm working on and I strive to **continuously learn** whatever can help me solve the user problem in the most efficient and effective way.
+I ❤️ to **own the projects** I'm working on and I strive to **continuously learn** whatever can help me solve the user problems in the most efficient and effective way.
 
 ### 🛠️ What I Like Working On
 
