@@ -21,7 +21,8 @@ I ❤️ to **own the projects** I'm working on and I strive to **continuously l
 
 - [`atenadb`](https://atena-db.web.app/) — ⚙️ A **key–value DB** based on FASTER, built from scratch using **C#**, **Go**, and **gRPC**, with **RAFT-based replication** *(2021)*  
 - [`huluve`](https://huluve.pages.dev/) — 🤖 **AI-enhanced support agent** with **semantic search** and **document retrieval** for websites of any kind. + 📞 AI-based call center *(2024)*  
-- [`stambecco`](https://github.com/mchl-labs/stambecco) — 🦌 **Italian LLM** based on LLaMA *(2023)*  
+- [`stambecco`](https://github.com/mchl-labs/stambecco) — 🦌 **Italian LLM** based on LLaMA *(2023)*
+- [`keenreaders`](https://wearekeenreaders.pages.dev/index.amp) — 📚 A platform to help you **read more** and better *(2022)*
 - `nautilus` — 📓 A **Notion-like app** with **math** and **handwriting support** *(2025)*  
 
 More on [my website 🌐](https://mchl-labs.pages.dev/) or in pinned repos 👇
