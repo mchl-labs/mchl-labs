@@ -1,20 +1,34 @@
-<!--<img src="https://qph.cf2.quoracdn.net/main-qimg-784f0a0c3570e6ac375e925db36bc863" width="800" height="450" />-->
+# 👋 Hi, I'm Mike
 
-### Hi there 👋
+I'm a **pragmatic** and **curious software engineer** with a background in **Computer Science and Engineering**.  
+I enjoy designing and building systems that are not only effective, but also **elegant**, **maintainable**, and **scalable**.
 
-This is @mchl-labs
+Most of my work lives at the intersection of **AI 🤖**, **data infrastructure 🗄️**, and **distributed systems 🌍** — whether it's a **recommendation engine**, a **nutritional planner based on combinatorial optimization**, or a **database management system**.
 
-<!--
-**mchl-labs/mchl-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What drives me is **solving hard problems with clear reasoning**, and **shipping things that bring real value to users**.
 
-Here are some ideas to get you started:
+I ❤️ to **own the projects** I'm working on and I strive to **continuously learn** whatever can help me solve the user problem in the most efficient and effective way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I Like Working On
+
+- 🤖 **Applied AI/ML** and recommendation systems  
+- 🧱 **System architecture** and backend design  
+- 🔢 **Optimization and modeling** problems (combinatorial and heuristics 😉)  
+- ☁️ **Scalable data pipelines** and cloud infrastructure  
+- 🧑‍💻 **Full-stack engineering** with strong product ownership  
+
+### 📦 Featured Projects
+
+- [`atenadb`](https://atena-db.web.app/) — ⚙️ A **key–value DB** based on FASTER, built from scratch using **C#**, **Go**, and **gRPC**, with **RAFT-based replication** *(2021)*  
+- [`huluve`](https://huluve.pages.dev/) — 🤖 **AI-enhanced support agent** with **semantic search** and **document retrieval** for websites of any kind. + 📞 AI-based call center *(2024)*  
+- [`stambecco`](https://github.com/mchl-labs/stambecco) — 🦌 **Italian LLM** based on LLaMA *(2023)*  
+- `nautilus` — 📓 A **Notion-like app** with **math** and **handwriting support** *(2025)*  
+
+More on [my website 🌐](https://mchl-labs.pages.dev/) or in pinned repos 👇
+
+### 🌱 Currently
+
+- 🧠 Leading **Data & AI** at [Al.ta Cucina](https://altacucina.co/)  
+- 🎓 Studying **CS & Engineering @ UniBG**  
+- 🔁 Always learning, always building
+
