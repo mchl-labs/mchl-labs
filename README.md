@@ -29,7 +29,8 @@ More on [my website 🌐](https://mchl-labs.pages.dev/) or in pinned repos 👇
 
 ### 🌱 Currently
 
-- 🧠 Leading **Data & AI** at [Al.ta Cucina](https://altacucina.co/)  
-- 🎓 Studying **CS & Engineering @ UniBG**  
+- 🧠 Leading **Data & AI** at [Al.ta Cucina](https://altacucina.co/)
+- 🎓 Studying **Management Engineering @ UniBG**  
+- 🎓 **BEng CS & Engineering @ UniBG**  
 - 🔁 Always learning, always building
 
