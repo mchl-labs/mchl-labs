@@ -31,6 +31,6 @@ More on [my website 🌐](https://mchl-labs.pages.dev/) or in pinned repos 👇
 
 - 🧠 Leading **Data & AI** at [Al.ta Cucina](https://altacucina.co/)
 - 🎓 Studying **Management Engineering @University of Bergamo**  
-- 🎓 **BEng Computer Science & Engineering @University of Bergamo**  
+- 🎓 **BEng Computer & Software Engineering @University of Bergamo**  
 - 🔁 Always learning, always building
 
