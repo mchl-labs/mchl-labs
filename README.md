@@ -3,7 +3,7 @@
 I'm a **pragmatic** and **curious software engineer** with a background in **Computer Science and Engineering**.  
 I enjoy designing and building systems that are not only effective, but also **elegant**, **maintainable**, and **scalable**.
 
-Most of my work lives at the intersection of **AI 🤖**, **data infrastructure 🗄️**, and **distributed systems 🌍** — whether it's a **recommendation engine**, a **nutritional planner based on combinatorial optimization**, or a **database management system**.
+Most of my work lives at the intersection of **AI 🤖**, **data infrastructure 🗄️**, and **distributed systems 🌍**, whether it's a **recommendation engine**, a **nutritional planner based on combinatorial optimization**, or a **database management system**.
 
 What drives me is **solving hard problems with clear reasoning**, and **shipping things that bring real value to users**.
 
